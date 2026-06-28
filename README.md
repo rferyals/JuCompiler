@@ -57,4 +57,3 @@ codegen.c/h        # LLVM IR code generation
 Makefile
 report.txt         # Technical design report (in Portuguese)
 ```
->>>>>>> 1f732a7 (Add compiler project files)
